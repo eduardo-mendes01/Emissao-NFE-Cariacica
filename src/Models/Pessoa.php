@@ -2,6 +2,6 @@
 
 namespace App\Models;
 
-class Pessoa
+abstract class Pessoa
 {
 }
